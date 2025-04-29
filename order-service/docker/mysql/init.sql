@@ -1,2 +1,1 @@
-CREATE DATABASE IF NOT EXISTS ordckclear
-       er_service;
+CREATE DATABASE IF NOT EXISTS order_service;
