@@ -13,3 +13,4 @@ public interface InventoryClient
             @RequestParam String skuCode,
             @RequestParam Integer quantity);
 }
+
